@@ -26,8 +26,6 @@
 - 📧 aa2725@cornell.edu  
 - 💼 [LinkedIn](www.linkedin.com/in/abdulrahman-alswaidan-374541100)  
 
-## 😄 Pronouns:
-He/Him
 
 ## ⚡ Fun fact:
 When I’m not debugging reinforcement learning agents, I’m probably fine-tuning a simulation of stock market dynamics using ideas from chemical process engineering.
