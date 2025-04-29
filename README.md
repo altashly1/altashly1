@@ -24,8 +24,7 @@
 
 ## 📫 How to reach me:
 - 📧 aa2725@cornell.edu  
-- 💼 [LinkedIn](https://www.linkedin.com/in/abdulrahmanalswaidan/)  
-- 🧠 [Google Scholar](https://scholar.google.com) *(coming soon)*
+- 💼 [LinkedIn](www.linkedin.com/in/abdulrahman-alswaidan-374541100)  
 
 ## 😄 Pronouns:
 He/Him
