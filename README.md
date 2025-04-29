@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @altashly1 (Abdulrahman Alswaidan)
+# 👋 Hi, I’m Abdulrahman Alswaidan
 
 🎓 I’m a Master’s student in Chemical and Biomolecular Engineering at Cornell University, working under Prof. Varner. My research focuses on applying mathematical modeling and computational techniques to simulate financial markets and complex systems.
 
